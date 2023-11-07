@@ -1,5 +1,5 @@
 # Naive_AVL_Tree
-This is a Repository for Naive AVL Tree implementation.       
+This is a Repository of Naive AVL Tree implementation for school project. 
 ## Structure
 * Each node stores a 32-bit integer      
 * The depth of root node is 0    
